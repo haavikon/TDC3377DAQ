@@ -1,0 +1,381 @@
+11:49:34 Starting program
+11:51:36 Starting program
+11:51:36 Using default config file
+11:51:36 Press x followed by the enter key to stop data acquistion
+11:52:17 Starting program
+11:52:17 Using default config file
+11:52:17 Press x followed by the enter key to stop data acquistion
+11:57:25 Starting program
+11:57:25 Using default config file
+11:57:25 Press x followed by the enter key to stop data acquistion
+11:57:25 Reading Config File : config.cfg
+11:57:25 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+11:57:25 CR0: 0000000000000000
+11:57:25 CR0: 0000000000000000CR1: 0000000000000000
+11:57:25 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000
+11:57:25 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000CR3: 0000000000000000
+11:57:25 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000CR3: 0000000000000000CR4: 0000000000000000
+11:57:25 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000CR3: 0000000000000000CR4: 0000000000000000CR5: 0000000000000000
+11:58:44 Starting program
+11:58:44 Using default config file
+11:58:44 Press x followed by the enter key to stop data acquistion
+11:58:44 Reading Config File : config.cfg
+11:58:44 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+11:58:44 CR0: 0000000000000000
+11:58:44 CR0: 0000000000000000CR1: 0000000000000000
+11:58:44 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000
+11:58:44 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000CR3: 0000000000000000
+11:58:44 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000CR3: 0000000000000000CR4: 0000000000000000
+11:58:44 CR0: 0000000000000000CR1: 0000000000000000CR2: 0000000000000000CR3: 0000000000000000CR4: 0000000000000000CR5: 0000000000000000
+12:0:1 Starting program
+12:0:1 Using default config file
+12:0:1 Press x followed by the enter key to stop data acquistion
+12:0:1 Reading Config File : config.cfg
+12:0:1 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+12:0:1 CR0: 0000000000000000
+12:0:1 CR1: 0000000000000000
+12:0:1 CR2: 0000000000000000
+12:0:1 CR3: 0000000000000000
+12:0:1 CR4: 0000000000000000
+12:0:1 CR5: 0000000000000000
+12:2:23 Starting program
+12:2:23 Using default config file
+12:2:23 Press x followed by the enter key to stop data acquistion
+12:2:23 Reading Config File : test.cfg
+12:2:23 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+12:2:23 CR0: 0000000000000000
+12:2:23 CR1: 0000000000000000
+12:2:23 CR2: 0000000000000000
+12:2:23 CR3: 0000000000000000
+12:2:23 CR4: 0000000000000000
+12:2:23 CR5: 0000000000000000
+12:2:39 Starting program
+12:2:39 Using default config file
+12:2:39 Press x followed by the enter key to stop data acquistion
+12:2:39 Reading Config File : test.cfg
+12:2:39 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+12:2:39 CR0: 0000000000000000
+12:2:39 CR1: 0000000000000000
+12:2:39 CR2: 0000000000000000
+12:2:39 CR3: 0000000000000000
+12:2:39 CR4: 0000000000000000
+12:2:39 CR5: 0000000000000000
+13:33:31 Starting program
+13:33:31 Using default config file
+13:33:31 Press x followed by the enter key to stop data acquistion
+13:33:31 Reading Config File : ./test/.cfg
+13:33:31 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+13:33:31 CR0: 0000000000000000
+13:33:31 CR1: 0000000000000000
+13:33:31 CR2: 0000000000000000
+13:33:31 CR3: 0000000000000000
+13:33:31 CR4: 0000000000000000
+13:33:31 CR5: 0000000000000000
+13:46:5 Starting program
+13:46:5 Using default config file
+13:46:5 Press x followed by the enter key to stop data acquistion
+13:46:5 Reading Config File : ./test/.cfg
+13:46:5 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+13:46:5 CR0: 0000000000000000
+13:46:5 CR1: 0000000000000000
+13:46:5 CR2: 0000000000000000
+13:46:5 CR3: 0000000000000000
+13:46:5 CR4: 0000000000000000
+13:46:5 CR5: 0000000000000000
+13:47:9 Starting program
+13:47:9 Using default config file
+13:47:9 Press x followed by the enter key to stop data acquistion
+13:47:9 Reading Config File : ./test/.cfg
+13:47:9 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+13:47:9 CR0: 0000000000000000
+13:47:9 CR1: 0000000000000000
+13:47:9 CR2: 0000000000000000
+13:47:9 CR3: 0000000000000000
+13:47:9 CR4: 0000000000000000
+13:47:9 CR5: 0000000000000000
+13:49:12 Starting program
+13:49:12 Using default config file
+13:49:12 Press x followed by the enter key to stop data acquistion
+13:49:12 Reading Config File : ./test/.cfg
+13:49:12 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+13:49:12 CR0: 0000000000000000
+13:49:12 CR1: 0000000000000000
+13:49:12 CR2: 0000000000000000
+13:49:12 CR3: 0000000000000000
+13:49:12 CR4: 0000000000000000
+13:49:12 CR5: 0000000000000000
+13:50:40 Starting program
+13:50:40 Using default config file
+13:50:40 Press x followed by the enter key to stop data acquistion
+13:50:40 Reading Config File : ./test/.cfg
+13:50:40 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+13:50:40 CR0: 0000000000000000
+13:50:40 CR1: 0000000000000000
+13:50:40 CR2: 0000000000000000
+13:50:40 CR3: 0000000000000000
+13:50:40 CR4: 0000000000000000
+13:50:40 CR5: 0000000000000000
+13:54:34 Starting program
+13:54:34 Using default config file
+13:54:34 Press x followed by the enter key to stop data acquistion
+13:54:34 Reading Config File : ./test/.cfg
+13:54:34 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+13:54:34 CR0: 0000000000000000
+13:54:34 CR1: 0000000000000000
+13:54:34 CR2: 0000000000000000
+13:54:34 CR3: 0000000000000000
+13:54:34 CR4: 0000000000000000
+13:54:34 CR5: 0000000000000000
+13:55:57 Starting program
+13:55:57 Using default config file
+13:55:57 Press x followed by the enter key to stop data acquistion
+13:55:57 Reading Config File : ./test/.cfg
+13:55:57 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+13:55:57 CR0: 0000000000000000
+13:55:57 CR1: 0000000000000000
+13:55:57 CR2: 0000000000000000
+13:55:57 CR3: 0000000000000000
+13:55:57 CR4: 0000000000000000
+13:55:57 CR5: 0000000000000000
+14:1:32 Starting program
+14:1:32 Using default config file
+14:1:32 Press x followed by the enter key to stop data acquistion
+14:1:32 Reading Config File : ./test/.cfg
+14:1:32 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:1:32 CR0: 0000000000000000
+14:1:32 CR1: 0000000000000000
+14:1:32 CR2: 0000000000000000
+14:1:32 CR3: 0000000000000000
+14:1:32 CR4: 0000000000000000
+14:1:32 CR5: 0000000000000000
+14:6:13 Starting program
+14:6:13 Using default config file
+14:6:13 Press x followed by the enter key to stop data acquistion
+14:6:13 Reading Config File : ./test/.cfg
+14:6:13 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:6:13 CR0: 0000000000000000
+14:6:13 CR1: 0000000000000000
+14:6:13 CR2: 0000000000000000
+14:6:13 CR3: 0000000000000000
+14:6:13 CR4: 0000000000000000
+14:6:13 CR5: 0000000000000000
+14:7:15 Starting program
+14:7:15 Using default config file
+14:7:15 Press x followed by the enter key to stop data acquistion
+14:7:15 Reading Config File : ./test/.cfg
+14:7:15 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:7:15 CR0: 0000000000000000
+14:7:15 CR1: 0000000000000000
+14:7:15 CR2: 0000000000000000
+14:7:15 CR3: 0000000000000000
+14:7:15 CR4: 0000000000000000
+14:7:15 CR5: 0000000000000000
+14:9:59 Starting program
+14:9:59 Using default config file
+14:9:59 Press x followed by the enter key to stop data acquistion
+14:9:59 Reading Config File : ./test/.cfg
+14:9:59 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:9:59 CR0: 0000000000000000
+14:9:59 CR1: 0000000000000000
+14:9:59 CR2: 0000000000000000
+14:9:59 CR3: 0000000000000000
+14:9:59 CR4: 0000000000000000
+14:9:59 CR5: 0000000000000000
+14:11:35 Starting program
+14:11:35 Using default config file
+14:11:35 Press x followed by the enter key to stop data acquistion
+14:11:35 Reading Config File : ./test/.cfg
+14:11:35 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:11:35 CR0: 0000000000000000
+14:11:35 CR1: 0000000000000000
+14:11:35 CR2: 0000000000000000
+14:11:35 CR3: 0000000000000000
+14:11:35 CR4: 0000000000000000
+14:11:35 CR5: 0000000000000000
+14:12:15 Starting program
+14:12:15 Using default config file
+14:12:15 Press x followed by the enter key to stop data acquistion
+14:12:15 Reading Config File : ./test/.cfg
+14:12:15 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:12:15 CR0: 0000000000000000
+14:12:15 CR1: 0000000000000000
+14:12:15 CR2: 0000000000000000
+14:12:15 CR3: 0000000000000000
+14:12:15 CR4: 0000000000000000
+14:12:15 CR5: 0000000000000000
+14:12:38 Starting program
+14:12:38 Using default config file
+14:12:38 Press x followed by the enter key to stop data acquistion
+14:12:38 Reading Config File : ./test/.cfg
+14:12:38 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:12:38 CR0: 0000000000000000
+14:12:38 CR1: 0000000000000000
+14:12:38 CR2: 0000000000000000
+14:12:38 CR3: 0000000000000000
+14:12:38 CR4: 0000000000000000
+14:12:38 CR5: 0000000000000000
+14:15:10 Starting program
+14:15:10 Using default config file
+14:15:10 Press x followed by the enter key to stop data acquistion
+14:15:10 Reading Config File : ./test/.cfg
+14:15:10 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:15:10 CR0: 0000000000000000
+14:15:10 CR1: 0000000000000000
+14:15:10 CR2: 0000000000000000
+14:15:10 CR3: 0000000000000000
+14:15:10 CR4: 0000000000000000
+14:15:10 CR5: 0000000000000000
+14:16:50 Starting program
+14:16:50 Using default config file
+14:16:50 Press x followed by the enter key to stop data acquistion
+14:16:50 Reading Config File : ./test/.cfg
+14:16:50 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:16:50 CR0: 0000000000000000
+14:16:50 CR1: 0000000000000000
+14:16:50 CR2: 0000000000000000
+14:16:50 CR3: 0000000000000000
+14:16:50 CR4: 0000000000000000
+14:16:50 CR5: 0000000000000000
+14:17:16 Starting program
+14:17:16 Using default config file
+14:17:16 Press x followed by the enter key to stop data acquistion
+14:17:16 Reading Config File : ./test/.cfg
+14:17:16 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:17:16 CR0: 0000000000000000
+14:17:16 CR1: 0000000000000000
+14:17:16 CR2: 0000000000000000
+14:17:16 CR3: 0000000000000000
+14:17:16 CR4: 0000000000000000
+14:17:16 CR5: 0000000000000000
+14:18:0 Starting program
+14:18:0 Using default config file
+14:18:0 Press x followed by the enter key to stop data acquistion
+14:18:0 Reading Config File : ./test/.cfg
+14:18:0 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:18:0 CR0: 0000000000000000
+14:18:0 CR1: 0000000000000000
+14:18:0 CR2: 0000000000000000
+14:18:0 CR3: 0000000000000000
+14:18:0 CR4: 0000000000000000
+14:18:0 CR5: 0000000000000000
+14:20:9 Starting program
+14:20:9 Using default config file
+14:20:9 Press x followed by the enter key to stop data acquistion
+14:20:9 Reading Config File : ./test/.cfg
+14:20:9 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:20:9 CR0: 0000000000000000
+14:20:9 CR1: 0000000000000000
+14:20:9 CR2: 0000000000000000
+14:20:9 CR3: 0000000000000000
+14:20:9 CR4: 0000000000000000
+14:20:9 CR5: 0000000000000000
+14:20:39 Starting program
+14:20:39 Using default config file
+14:20:39 Press x followed by the enter key to stop data acquistion
+14:20:39 Reading Config File : ./test/.cfg
+14:20:39 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:20:39 CR0: 0000000000000000
+14:20:39 CR1: 0000000000000000
+14:20:39 CR2: 0000000000000000
+14:20:39 CR3: 0000000000000000
+14:20:39 CR4: 0000000000000000
+14:20:39 CR5: 0000000000000000
+14:25:9 Starting program
+14:25:9 Using default config file
+14:25:9 Press x followed by the enter key to stop data acquistion
+14:25:9 Reading Config File : ./test/.cfg
+14:25:9 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:25:9 CR0: 0000000000000000
+14:25:9 CR1: 0000000000000000
+14:25:9 CR2: 0000000000000000
+14:25:9 CR3: 0000000000000000
+14:25:9 CR4: 0000000000000000
+14:25:9 CR5: 0000000000000000
+14:27:26 Starting program
+14:27:26 Using default config file
+14:27:26 Press x followed by the enter key to stop data acquistion
+14:27:26 Reading Config File : ./test/.cfg
+14:27:26 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:27:26 CR0: 0000000000000000
+14:27:26 CR1: 0000000000000000
+14:27:26 CR2: 0000000000000000
+14:27:26 CR3: 0000000000000000
+14:27:26 CR4: 0000000000000000
+14:27:26 CR5: 0000000000000000
+14:28:16 Starting program
+14:28:16 Using default config file
+14:28:16 Press x followed by the enter key to stop data acquistion
+14:28:16 Reading Config File : ./test/.cfg
+14:28:16 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:28:16 CR0: 0000000000000000
+14:28:16 CR1: 0000000000000000
+14:28:16 CR2: 0000000000000000
+14:28:16 CR3: 0000000000000000
+14:28:16 CR4: 0000000000000000
+14:28:16 CR5: 0000000000000000
+14:29:42 Starting program
+14:29:42 Using default config file
+14:29:42 Press x followed by the enter key to stop data acquistion
+14:29:42 Reading Config File : ./test/.cfg
+14:29:42 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:29:42 CR0: 0000000000000000
+14:29:42 CR1: 0000000000000000
+14:29:42 CR2: 0000000000000000
+14:29:42 CR3: 0000000000000000
+14:29:42 CR4: 0000000000000000
+14:29:42 CR5: 0000000000000000
+14:31:24 Starting program
+14:31:24 Using default config file
+14:31:24 Press x followed by the enter key to stop data acquistion
+14:31:24 Reading Config File : ./test/.cfg
+14:31:24 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:31:24 CR0: 0000000000000000
+14:31:24 CR1: 0000000000000000
+14:31:24 CR2: 0000000000000000
+14:31:24 CR3: 0000000000000000
+14:31:24 CR4: 0000000000000000
+14:31:24 CR5: 0000000000000000
+14:32:27 Starting program
+14:32:27 Using default config file
+14:32:27 Press x followed by the enter key to stop data acquistion
+14:32:27 Reading Config File : ./test/.cfg
+14:32:27 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:32:27 CR0: 0000000000000000
+14:32:27 CR1: 0000000000000000
+14:32:27 CR2: 0000000000000000
+14:32:27 CR3: 0000000000000000
+14:32:27 CR4: 0000000000000000
+14:32:27 CR5: 0000000000000000
+14:36:43 Starting program
+14:36:43 Using default config file
+14:36:43 Press x followed by the enter key to stop data acquistion
+14:36:43 Reading Config File : ./test/.cfg
+14:36:43 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:36:43 CR0: 0000000000000000
+14:36:43 CR1: 0000000000000000
+14:36:43 CR2: 0000000000000000
+14:36:43 CR3: 0000000000000000
+14:36:43 CR4: 0000000000000000
+14:36:43 CR5: 0000000000000000
+14:37:38 Starting program
+14:37:38 Using default config file
+14:37:38 Press x followed by the enter key to stop data acquistion
+14:37:38 Reading Config File : ./test/.cfg
+14:37:38 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:37:38 CR0: 0000000000000000
+14:37:38 CR1: 0000000000000000
+14:37:38 CR2: 0000000000000000
+14:37:38 CR3: 0000000000000000
+14:37:38 CR4: 0000000000000000
+14:37:38 CR5: 0000000000000000
+14:38:16 Starting program
+14:38:16 Using default config file
+14:38:16 Press x followed by the enter key to stop data acquistion
+14:38:16 Reading Config File : ./test/.cfg
+14:38:16 GPIB Address -1 TDC SLot -1 Dataway Visulizer Slot -1
+14:38:16 CR0: 0000000000000000
+14:38:16 CR1: 0000000000000000
+14:38:16 CR2: 0000000000000000
+14:38:16 CR3: 0000000000000000
+14:38:16 CR4: 0000000000000000
+14:38:16 CR5: 0000000000000000

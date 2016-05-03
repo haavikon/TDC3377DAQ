@@ -1,0 +1,847 @@
+9:9:53 Starting program
+9:9:53 Using default config file
+9:9:53 Press x followed by the enter key to stop data acquistion
+9:9:56 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:9:56 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:9:56 CR0: 0001000000000000
+9:9:56 CR1: 0000001011110000
+9:9:56 CR2: 1111101000000110
+9:9:56 CR3: 0000000000000000
+9:9:56 CR4: 0000000000000000
+9:9:56 CR5: 0000000000000000
+9:13:1 Starting program
+9:13:1 Using default config file
+9:13:1 Press x followed by the enter key to stop data acquistion
+9:13:5 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:13:5 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:13:5 CR0: 0001000000000000
+9:13:5 CR1: 0000001011110000
+9:13:5 CR2: 1111101000000110
+9:13:5 CR3: 0000000000000000
+9:13:5 CR4: 0000000000000000
+9:13:5 CR5: 0000000000000000
+9:25:35 Starting program
+9:25:35 Using default config file
+9:25:35 Press x followed by the enter key to stop data acquistion
+9:25:37 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:25:37 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:25:37 CR0: 0001000000000000
+9:25:37 CR1: 0000001011110000
+9:25:37 CR2: 1111101000000110
+9:25:37 CR3: 0000000000000000
+9:25:37 CR4: 0000000000000000
+9:25:37 CR5: 0000000000000000
+9:26:1 Starting program
+9:26:1 Using default config file
+9:26:1 Press x followed by the enter key to stop data acquistion
+9:26:7 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:26:7 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:26:7 CR0: 0001000000000000
+9:26:7 CR1: 0000001011110000
+9:26:7 CR2: 1111101000000110
+9:26:7 CR3: 0000000000000000
+9:26:7 CR4: 0000000000000000
+9:26:7 CR5: 0000000000000000
+9:26:40 Starting program
+9:26:40 Using default config file
+9:26:40 Press x followed by the enter key to stop data acquistion
+9:26:42 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:26:42 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:26:42 CR0: 0001000000000000
+9:26:42 CR1: 0000001011110000
+9:26:42 CR2: 1111101000000110
+9:26:42 CR3: 0000000000000000
+9:26:42 CR4: 0000000000000000
+9:26:42 CR5: 0000000000000000
+9:27:58 Starting program
+9:27:58 Using default config file
+9:27:58 Press x followed by the enter key to stop data acquistion
+9:28:1 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:28:1 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:28:1 CR0: 0001000000000000
+9:28:1 CR1: 0000001011110000
+9:28:1 CR2: 1111101000000110
+9:28:1 CR3: 0000000000000000
+9:28:1 CR4: 0000000000000000
+9:28:1 CR5: 0000000000000000
+9:29:23 Starting program
+9:29:23 Using default config file
+9:29:23 Press x followed by the enter key to stop data acquistion
+9:29:23 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:29:23 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:29:23 CR0: 0001000000000000
+9:29:23 CR1: 0000001011110000
+9:29:23 CR2: 1111101000000110
+9:29:23 CR3: 0000000000000000
+9:29:23 CR4: 0000000000000000
+9:29:23 CR5: 0000000000000000
+9:31:1 Starting program
+9:31:1 Using default config file
+9:31:1 Press x followed by the enter key to stop data acquistion
+9:31:1 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:31:1 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:31:1 CR0: 0001000000000000
+9:31:1 CR1: 0000001011110000
+9:31:1 CR2: 1111101000000110
+9:31:1 CR3: 0000000000000000
+9:31:1 CR4: 0000000000000000
+9:31:1 CR5: 0000000000000000
+9:32:38 Starting program
+9:32:38 Using default config file
+9:32:38 Press x followed by the enter key to stop data acquistion
+9:32:38 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:32:38 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:32:38 CR0: 0001000000000000
+9:32:38 CR1: 0000001011110000
+9:32:38 CR2: 1111101000000110
+9:32:38 CR3: 0000000000000000
+9:32:38 CR4: 0000000000000000
+9:32:38 CR5: 0000000000000000
+9:34:19 Starting program
+9:34:19 Using default config file
+9:34:19 Press x followed by the enter key to stop data acquistion
+9:34:19 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:34:19 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:34:19 CR0: 0001000000000000
+9:34:19 CR1: 0000001011110000
+9:34:19 CR2: 1111101000000110
+9:34:19 CR3: 0000000000000000
+9:34:19 CR4: 0000000000000000
+9:34:19 CR5: 0000000000000000
+9:34:38 Starting program
+9:34:38 Using default config file
+9:34:38 Press x followed by the enter key to stop data acquistion
+9:34:38 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:34:38 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:34:38 CR0: 0001000000000000
+9:34:38 CR1: 0000001011110000
+9:34:38 CR2: 1111101000000110
+9:34:38 CR3: 0000000000000000
+9:34:38 CR4: 0000000000000000
+9:34:38 CR5: 0000000000000000
+9:37:34 Starting program
+9:37:34 Using default config file
+9:37:34 Press x followed by the enter key to stop data acquistion
+9:37:34 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:37:34 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:37:34 CR0: 0001000000000000
+9:37:34 CR1: 0000001011110000
+9:37:34 CR2: 1111101000000110
+9:37:34 CR3: 0000000000000000
+9:37:34 CR4: 0000000000000000
+9:37:34 CR5: 0000000000000000
+9:38:12 Starting program
+9:38:12 Using default config file
+9:38:12 Press x followed by the enter key to stop data acquistion
+9:38:12 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:38:12 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:38:12 CR0: 0001000000000000
+9:38:12 CR1: 0000001011110000
+9:38:12 CR2: 1111101000000110
+9:38:12 CR3: 0000000000000000
+9:38:12 CR4: 0000000000000000
+9:38:12 CR5: 0000000000000000
+9:39:28 Starting program
+9:39:28 Using default config file
+9:39:28 Press x followed by the enter key to stop data acquistion
+9:39:28 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:39:28 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:39:28 CR0: 0001000000000000
+9:39:28 CR1: 0000001011110000
+9:39:28 CR2: 1111101000000110
+9:39:28 CR3: 0000000000000000
+9:39:28 CR4: 0000000000000000
+9:39:28 CR5: 0000000000000000
+9:51:15 Starting program
+9:51:15 Using default config file
+9:51:15 Press x followed by the enter key to stop data acquistion
+9:51:15 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:51:15 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:51:15 CR0: 0001000000000000
+9:51:15 CR1: 0000001011110000
+9:51:15 CR2: 1111101000000110
+9:51:15 CR3: 0000000000000000
+9:51:15 CR4: 0000000000000000
+9:51:15 CR5: 0000000000000000
+9:53:28 Starting program
+9:53:28 Using default config file
+9:53:28 Press x followed by the enter key to stop data acquistion
+9:53:28 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+9:53:28 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+9:53:28 CR0: 0001000000000000
+9:53:28 CR1: 0000001011110000
+9:53:28 CR2: 1111101000000110
+9:53:28 CR3: 0000000000000000
+9:53:28 CR4: 0000000000000000
+9:53:28 CR5: 0000000000000000
+10:9:18 Starting program
+10:9:18 Using default config file
+10:9:18 Press x followed by the enter key to stop data acquistion
+10:9:18 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:9:18 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:9:18 CR0: 0001000000000000
+10:9:18 CR1: 0000001011110000
+10:9:18 CR2: 1111101000000110
+10:9:18 CR3: 0000000000000000
+10:9:18 CR4: 0000000000000000
+10:9:18 CR5: 0000000000000000
+10:9:48 Starting program
+10:9:48 Using default config file
+10:9:48 Press x followed by the enter key to stop data acquistion
+10:9:48 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:9:48 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:9:48 CR0: 0001000000000000
+10:9:48 CR1: 0000001011110000
+10:9:48 CR2: 1111101000000110
+10:9:48 CR3: 0000000000000000
+10:9:48 CR4: 0000000000000000
+10:9:48 CR5: 0000000000000000
+10:22:23 Starting program
+10:22:23 Using default config file
+10:22:23 Press x followed by the enter key to stop data acquistion
+10:22:23 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:22:23 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:22:23 CR0: 0001000000000000
+10:22:23 CR1: 0000001011110000
+10:22:23 CR2: 1111101000000110
+10:22:23 CR3: 0000000000000000
+10:22:23 CR4: 0000000000000000
+10:22:23 CR5: 0000000000000000
+10:23:32 Starting program
+10:23:32 Using default config file
+10:23:32 Press x followed by the enter key to stop data acquistion
+10:23:32 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:23:32 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:23:32 CR0: 0001000000000000
+10:23:32 CR1: 0000001011110000
+10:23:32 CR2: 1111101000000110
+10:23:32 CR3: 0000000000000000
+10:23:32 CR4: 0000000000000000
+10:23:32 CR5: 0000000000000000
+10:26:11 Starting program
+10:26:11 Using default config file
+10:26:11 Press x followed by the enter key to stop data acquistion
+10:26:11 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:26:11 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:26:11 CR0: 0001000000000000
+10:26:11 CR1: 0000001011110000
+10:26:11 CR2: 1111101000000110
+10:26:11 CR3: 0000000000000000
+10:26:11 CR4: 0000000000000000
+10:26:11 CR5: 0000000000000000
+10:27:6 Starting program
+10:27:6 Using default config file
+10:27:6 Press x followed by the enter key to stop data acquistion
+10:27:6 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:27:6 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:27:6 CR0: 0001000000000000
+10:27:6 CR1: 0000001011110000
+10:27:6 CR2: 1111101000000110
+10:27:6 CR3: 0000000000000000
+10:27:6 CR4: 0000000000000000
+10:27:6 CR5: 0000000000000000
+10:28:1 Starting program
+10:28:1 Using default config file
+10:28:1 Press x followed by the enter key to stop data acquistion
+10:28:1 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:28:1 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:28:1 CR0: 0001000000000000
+10:28:1 CR1: 0000001011110000
+10:28:1 CR2: 1111101000000110
+10:28:1 CR3: 0000000000000000
+10:28:1 CR4: 0000000000000000
+10:28:1 CR5: 0000000000000000
+10:29:50 Starting program
+10:29:50 Using default config file
+10:29:50 Press x followed by the enter key to stop data acquistion
+10:29:50 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:29:50 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:29:50 CR0: 0001000000000000
+10:29:50 CR1: 0000001011110000
+10:29:50 CR2: 1111101000000110
+10:29:50 CR3: 0000000000000000
+10:29:50 CR4: 0000000000000000
+10:29:50 CR5: 0000000000000000
+10:30:59 Starting program
+10:30:59 Using default config file
+10:30:59 Press x followed by the enter key to stop data acquistion
+10:30:59 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:30:59 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:30:59 CR0: 0001000000000000
+10:30:59 CR1: 0000001011110000
+10:30:59 CR2: 1111101000000110
+10:30:59 CR3: 0000000000000000
+10:30:59 CR4: 0000000000000000
+10:30:59 CR5: 0000000000000000
+10:37:39 Starting program
+10:37:39 Using default config file
+10:37:39 Press x followed by the enter key to stop data acquistion
+10:37:39 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:37:39 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:37:39 CR0: 0001000000000000
+10:37:39 CR1: 0000001011110000
+10:37:39 CR2: 1111101000000110
+10:37:39 CR3: 0000000000000000
+10:37:39 CR4: 0000000000000000
+10:37:39 CR5: 0000000000000000
+10:38:36 Starting program
+10:38:36 Using default config file
+10:38:36 Press x followed by the enter key to stop data acquistion
+10:38:36 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:38:36 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:38:36 CR0: 0001000000000000
+10:38:36 CR1: 0000001011110000
+10:38:36 CR2: 1111101000000110
+10:38:36 CR3: 0000000000000000
+10:38:36 CR4: 0000000000000000
+10:38:36 CR5: 0000000000000000
+10:42:42 Starting program
+10:42:42 Using default config file
+10:42:42 Press x followed by the enter key to stop data acquistion
+10:42:42 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:42:42 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:42:42 CR0: 0001000000000000
+10:42:42 CR1: 0000001011110000
+10:42:42 CR2: 1111101000000110
+10:42:42 CR3: 0000000000000000
+10:42:42 CR4: 0000000000000000
+10:42:42 CR5: 0000000000000000
+10:44:21 Starting program
+10:44:21 Using default config file
+10:44:21 Press x followed by the enter key to stop data acquistion
+10:44:21 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:44:21 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:44:21 CR0: 0001000000000000
+10:44:21 CR1: 0000001011110000
+10:44:21 CR2: 1111101000000110
+10:44:21 CR3: 0000000000000000
+10:44:21 CR4: 0000000000000000
+10:44:21 CR5: 0000000000000000
+10:54:24 Starting program
+10:54:24 Using default config file
+10:54:24 Press x followed by the enter key to stop data acquistion
+10:54:24 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:54:24 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:54:24 CR0: 0001000000000000
+10:54:24 CR1: 0000001011110000
+10:54:24 CR2: 1111101000000110
+10:54:24 CR3: 0000000000000000
+10:54:24 CR4: 0000000000000000
+10:54:24 CR5: 0000000000000000
+10:55:21 Starting program
+10:55:21 Using default config file
+10:55:21 Press x followed by the enter key to stop data acquistion
+10:55:21 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:55:21 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:55:21 CR0: 0001000000000000
+10:55:21 CR1: 0000001011110000
+10:55:21 CR2: 1111101000000110
+10:55:21 CR3: 0000000000000000
+10:55:21 CR4: 0000000000000000
+10:55:21 CR5: 0000000000000000
+10:58:50 Starting program
+10:58:50 Using default config file
+10:58:50 Press x followed by the enter key to stop data acquistion
+10:58:50 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:58:50 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:58:50 CR0: 0001000000000000
+10:58:50 CR1: 0000001011110000
+10:58:50 CR2: 1111101000000110
+10:58:50 CR3: 0000000000000000
+10:58:50 CR4: 0000000000000000
+10:58:50 CR5: 0000000000000000
+10:59:41 Starting program
+10:59:41 Using default config file
+10:59:41 Press x followed by the enter key to stop data acquistion
+10:59:41 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+10:59:41 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+10:59:41 CR0: 0001000000000000
+10:59:41 CR1: 0000001011110000
+10:59:41 CR2: 1111101000000110
+10:59:41 CR3: 0000000000000000
+10:59:41 CR4: 0000000000000000
+10:59:41 CR5: 0000000000000000
+11:6:29 Starting program
+11:6:29 Using default config file
+11:6:29 Press x followed by the enter key to stop data acquistion
+11:6:29 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:6:29 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:6:29 CR0: 0001000000000000
+11:6:29 CR1: 0000001011110000
+11:6:29 CR2: 1111101000000110
+11:6:29 CR3: 0000000000000000
+11:6:29 CR4: 0000000000000000
+11:6:29 CR5: 0000000000000000
+11:22:19 Starting program
+11:22:19 Using default config file
+11:22:19 Press x followed by the enter key to stop data acquistion
+11:22:19 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:22:19 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:22:19 CR0: 0001000000000000
+11:22:19 CR1: 0000001011110000
+11:22:19 CR2: 1111101000000110
+11:22:19 CR3: 0000000000000000
+11:22:19 CR4: 0000000000000000
+11:22:19 CR5: 0000000000000000
+11:24:34 Starting program
+11:24:34 Using default config file
+11:24:34 Press x followed by the enter key to stop data acquistion
+11:24:34 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:24:34 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:24:34 CR0: 0001000000000000
+11:24:34 CR1: 0000001011110000
+11:24:34 CR2: 1111101000000110
+11:24:34 CR3: 0000000000000000
+11:24:34 CR4: 0000000000000000
+11:24:34 CR5: 0000000000000000
+11:25:10 Starting program
+11:25:10 Using default config file
+11:25:10 Press x followed by the enter key to stop data acquistion
+11:25:10 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:25:10 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:25:10 CR0: 0001000000000000
+11:25:10 CR1: 0000001011110000
+11:25:10 CR2: 1111101000000110
+11:25:10 CR3: 0000000000000000
+11:25:10 CR4: 0000000000000000
+11:25:10 CR5: 0000000000000000
+11:25:42 Starting program
+11:25:42 Using default config file
+11:25:42 Press x followed by the enter key to stop data acquistion
+11:25:42 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:25:42 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:25:42 CR0: 0001000000000000
+11:25:42 CR1: 0000001011110000
+11:25:42 CR2: 1111101000000110
+11:25:42 CR3: 0000000000000000
+11:25:42 CR4: 0000000000000000
+11:25:42 CR5: 0000000000000000
+11:33:3 Starting program
+11:33:3 Using default config file
+11:33:3 Press x followed by the enter key to stop data acquistion
+11:33:3 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:33:3 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:33:3 CR0: 0001000000000000
+11:33:3 CR1: 0000001011110000
+11:33:3 CR2: 1111101000000110
+11:33:3 CR3: 0000000000000000
+11:33:3 CR4: 0000000000000000
+11:33:3 CR5: 0000000000000000
+11:38:42 Starting program
+11:38:42 Using default config file
+11:38:42 Press x followed by the enter key to stop data acquistion
+11:38:42 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:38:42 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:38:42 CR0: 0001000000000000
+11:38:42 CR1: 0000001011110000
+11:38:42 CR2: 1111101000000110
+11:38:42 CR3: 0000000000000000
+11:38:42 CR4: 0000000000000000
+11:38:42 CR5: 0000000000000000
+11:45:53 Starting program
+11:45:53 Using default config file
+11:45:53 Press x followed by the enter key to stop data acquistion
+11:45:53 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:45:53 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:45:53 CR0: 0001000000000000
+11:45:53 CR1: 0000001011110000
+11:45:53 CR2: 1111101000000110
+11:45:53 CR3: 0000000000000000
+11:45:53 CR4: 0000000000000000
+11:45:53 CR5: 0000000000000000
+11:50:36 Starting program
+11:50:36 Using default config file
+11:50:36 Press x followed by the enter key to stop data acquistion
+11:50:36 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:50:36 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:50:36 CR0: 0001000000000000
+11:50:36 CR1: 0000001011110000
+11:50:36 CR2: 1111101000000110
+11:50:36 CR3: 0000000000000000
+11:50:36 CR4: 0000000000000000
+11:50:36 CR5: 0000000000000000
+11:50:53 Starting program
+11:50:53 Using default config file
+11:50:53 Press x followed by the enter key to stop data acquistion
+11:50:53 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:50:53 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:50:53 CR0: 0001000000000000
+11:50:53 CR1: 0000001011110000
+11:50:53 CR2: 1111101000000110
+11:50:53 CR3: 0000000000000000
+11:50:53 CR4: 0000000000000000
+11:50:53 CR5: 0000000000000000
+11:58:44 Starting program
+11:58:44 Using default config file
+11:58:44 Press x followed by the enter key to stop data acquistion
+11:58:44 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:58:44 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:58:44 CR0: 0001000000000000
+11:58:44 CR1: 0000001011110000
+11:58:44 CR2: 1111101000000110
+11:58:44 CR3: 0000000000000000
+11:58:44 CR4: 0000000000000000
+11:58:44 CR5: 0000000000000000
+11:59:42 Starting program
+11:59:42 Using default config file
+11:59:42 Press x followed by the enter key to stop data acquistion
+11:59:42 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+11:59:42 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+11:59:42 CR0: 0001000000000000
+11:59:42 CR1: 0000001011110000
+11:59:42 CR2: 1111101000000110
+11:59:42 CR3: 0000000000000000
+11:59:42 CR4: 0000000000000000
+11:59:42 CR5: 0000000000000000
+12:0:1 Starting program
+12:0:1 Using default config file
+12:0:1 Press x followed by the enter key to stop data acquistion
+12:0:1 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:0:1 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:0:1 CR0: 0001000000000000
+12:0:1 CR1: 0000001011110000
+12:0:1 CR2: 1111101000000110
+12:0:1 CR3: 0000000000000000
+12:0:1 CR4: 0000000000000000
+12:0:1 CR5: 0000000000000000
+12:0:57 Starting program
+12:0:57 Using default config file
+12:0:57 Press x followed by the enter key to stop data acquistion
+12:0:57 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:0:57 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:0:57 CR0: 0001000000000000
+12:0:57 CR1: 0000001011110000
+12:0:57 CR2: 1111101000000110
+12:0:57 CR3: 0000000000000000
+12:0:57 CR4: 0000000000000000
+12:0:57 CR5: 0000000000000000
+12:19:3 Starting program
+12:19:3 Using default config file
+12:19:3 Press x followed by the enter key to stop data acquistion
+12:19:3 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:19:3 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:19:3 CR0: 0001000000000000
+12:19:3 CR1: 0000001011110000
+12:19:3 CR2: 1111101000000110
+12:19:3 CR3: 0000000000000000
+12:19:3 CR4: 0000000000000000
+12:19:3 CR5: 0000000000000000
+12:20:56 Starting program
+12:20:56 Using default config file
+12:20:56 Press x followed by the enter key to stop data acquistion
+12:20:56 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:20:56 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:20:56 CR0: 0001000000000000
+12:20:56 CR1: 0000001011110000
+12:20:56 CR2: 1111101000000110
+12:20:56 CR3: 0000000000000000
+12:20:56 CR4: 0000000000000000
+12:20:56 CR5: 0000000000000000
+12:21:15 Starting program
+12:21:15 Using default config file
+12:21:15 Press x followed by the enter key to stop data acquistion
+12:21:15 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:21:15 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:21:15 CR0: 0001000000000000
+12:21:15 CR1: 0000001011110000
+12:21:15 CR2: 1111101000000110
+12:21:15 CR3: 0000000000000000
+12:21:15 CR4: 0000000000000000
+12:21:15 CR5: 0000000000000000
+12:31:36 Starting program
+12:31:36 Using default config file
+12:31:36 Press x followed by the enter key to stop data acquistion
+12:31:36 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:31:36 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:31:36 CR0: 0001000000000000
+12:31:36 CR1: 0000001011110000
+12:31:36 CR2: 1111101000000110
+12:31:36 CR3: 0000000000000000
+12:31:36 CR4: 0000000000000000
+12:31:36 CR5: 0000000000000000
+12:35:27 Starting program
+12:35:27 Using default config file
+12:35:27 Press x followed by the enter key to stop data acquistion
+12:35:27 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:35:27 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:35:27 CR0: 0001000000000000
+12:35:27 CR1: 0000001011110000
+12:35:27 CR2: 1111101000000110
+12:35:27 CR3: 0000000000000000
+12:35:27 CR4: 0000000000000000
+12:35:27 CR5: 0000000000000000
+12:38:30 Starting program
+12:38:30 Using default config file
+12:38:30 Press x followed by the enter key to stop data acquistion
+12:38:30 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+12:38:30 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+12:38:30 CR0: 0001000000000000
+12:38:30 CR1: 0000001011110000
+12:38:30 CR2: 1111101000000110
+12:38:30 CR3: 0000000000000000
+12:38:30 CR4: 0000000000000000
+12:38:30 CR5: 0000000000000000
+13:39:24 Starting program
+13:39:24 Using default config file
+13:39:24 Press x followed by the enter key to stop data acquistion
+13:39:24 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+13:39:24 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+13:39:24 CR0: 0001000000000000
+13:39:24 CR1: 0000001011110000
+13:39:24 CR2: 1111101000000110
+13:39:24 CR3: 0000000000000000
+13:39:24 CR4: 0000000000000000
+13:39:24 CR5: 0000000000000000
+13:42:36 Starting program
+13:42:36 Using default config file
+13:42:36 Press x followed by the enter key to stop data acquistion
+13:42:36 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+13:42:36 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+13:42:36 CR0: 0001000000000000
+13:42:36 CR1: 0000001011110000
+13:42:36 CR2: 1111101000000110
+13:42:36 CR3: 0000000000000000
+13:42:36 CR4: 0000000000000000
+13:42:36 CR5: 0000000000000000
+13:48:28 Starting program
+13:48:28 Using default config file
+13:48:28 Press x followed by the enter key to stop data acquistion
+13:48:28 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+13:48:28 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+13:48:28 CR0: 0001000000000000
+13:48:28 CR1: 0000001011110000
+13:48:28 CR2: 1111101000000110
+13:48:28 CR3: 0000000000000000
+13:48:28 CR4: 0000000000000000
+13:48:28 CR5: 0000000000000000
+13:50:21 Starting program
+13:50:21 Using default config file
+13:50:21 Press x followed by the enter key to stop data acquistion
+13:50:21 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+13:50:21 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+13:50:21 CR0: 0001000000000000
+13:50:21 CR1: 0000001011110000
+13:50:21 CR2: 1111101000000110
+13:50:21 CR3: 0000000000000000
+13:50:21 CR4: 0000000000000000
+13:50:21 CR5: 0000000000000000
+13:56:5 Starting program
+13:56:5 Using default config file
+13:56:5 Press x followed by the enter key to stop data acquistion
+13:56:5 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+13:56:5 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+13:56:5 CR0: 0001000000000000
+13:56:5 CR1: 0000001011110000
+13:56:5 CR2: 1111101000000110
+13:56:5 CR3: 0000000000000000
+13:56:5 CR4: 0000000000000000
+13:56:5 CR5: 0000000000000000
+13:57:14 Starting program
+13:57:14 Using default config file
+13:57:14 Press x followed by the enter key to stop data acquistion
+13:57:14 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+13:57:14 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+13:57:14 CR0: 0001000000000000
+13:57:14 CR1: 0000001011110000
+13:57:14 CR2: 1111101000000110
+13:57:14 CR3: 0000000000000000
+13:57:14 CR4: 0000000000000000
+13:57:14 CR5: 0000000000000000
+13:59:31 Starting program
+13:59:31 Using default config file
+13:59:31 Press x followed by the enter key to stop data acquistion
+13:59:32 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+13:59:32 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+13:59:32 CR0: 0001000000000000
+13:59:32 CR1: 0000001011110000
+13:59:32 CR2: 1111101000000110
+13:59:32 CR3: 0000000000000000
+13:59:32 CR4: 0000000000000000
+13:59:32 CR5: 0000000000000000
+14:1:11 Starting program
+14:1:11 Using default config file
+14:1:11 Press x followed by the enter key to stop data acquistion
+14:1:11 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:1:11 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:1:11 CR0: 0001000000000000
+14:1:11 CR1: 0000001011110000
+14:1:11 CR2: 1111101000000110
+14:1:11 CR3: 0000000000000000
+14:1:11 CR4: 0000000000000000
+14:1:11 CR5: 0000000000000000
+14:3:13 Starting program
+14:3:13 Using default config file
+14:3:13 Press x followed by the enter key to stop data acquistion
+14:3:13 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:3:13 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:3:13 CR0: 0001000000000000
+14:3:13 CR1: 0000001011110000
+14:3:13 CR2: 1111101000000110
+14:3:13 CR3: 0000000000000000
+14:3:13 CR4: 0000000000000000
+14:3:13 CR5: 0000000000000000
+14:8:14 Starting program
+14:8:14 Using default config file
+14:8:14 Press x followed by the enter key to stop data acquistion
+14:8:14 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:8:14 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:8:14 CR0: 0001000000000000
+14:8:14 CR1: 0000001011110000
+14:8:14 CR2: 1111101000000110
+14:8:14 CR3: 0000000000000000
+14:8:14 CR4: 0000000000000000
+14:8:14 CR5: 0000000000000000
+14:11:9 Starting program
+14:11:9 Using default config file
+14:11:9 Press x followed by the enter key to stop data acquistion
+14:11:9 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:11:9 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:11:9 CR0: 0001000000000000
+14:11:9 CR1: 0000001011110000
+14:11:9 CR2: 1111101000000110
+14:11:9 CR3: 0000000000000000
+14:11:9 CR4: 0000000000000000
+14:11:9 CR5: 0000000000000000
+14:20:33 Starting program
+14:20:33 Using default config file
+14:20:33 Press x followed by the enter key to stop data acquistion
+14:20:33 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:20:33 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:20:33 CR0: 0001000000000000
+14:20:33 CR1: 0000001011110000
+14:20:33 CR2: 1111101000000110
+14:20:33 CR3: 0000000000000000
+14:20:33 CR4: 0000000000000000
+14:20:33 CR5: 0000000000000000
+14:22:4 Starting program
+14:22:4 Using default config file
+14:22:4 Press x followed by the enter key to stop data acquistion
+14:22:4 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:22:4 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:22:4 CR0: 0001000000000000
+14:22:4 CR1: 0000001011110000
+14:22:4 CR2: 1111101000000110
+14:22:4 CR3: 0000000000000000
+14:22:4 CR4: 0000000000000000
+14:22:4 CR5: 0000000000000000
+14:23:59 Starting program
+14:23:59 Using default config file
+14:23:59 Press x followed by the enter key to stop data acquistion
+14:23:59 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:23:59 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:23:59 CR0: 0001000000000000
+14:23:59 CR1: 0000001011110000
+14:23:59 CR2: 1111101000000110
+14:23:59 CR3: 0000000000000000
+14:23:59 CR4: 0000000000000000
+14:23:59 CR5: 0000000000000000
+14:25:14 Starting program
+14:25:14 Using default config file
+14:25:14 Press x followed by the enter key to stop data acquistion
+14:25:14 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:25:14 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:25:14 CR0: 0001000000000000
+14:25:14 CR1: 0000001011110000
+14:25:14 CR2: 1111101000000110
+14:25:14 CR3: 0000000000000000
+14:25:14 CR4: 0000000000000000
+14:25:14 CR5: 0000000000000000
+14:25:55 Starting program
+14:25:55 Using default config file
+14:25:55 Press x followed by the enter key to stop data acquistion
+14:25:55 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:25:55 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:25:55 CR0: 0001000000000000
+14:25:55 CR1: 0000001011110000
+14:25:55 CR2: 1111101000000110
+14:25:55 CR3: 0000000000000000
+14:25:55 CR4: 0000000000000000
+14:25:55 CR5: 0000000000000000
+14:27:29 Starting program
+14:27:29 Using default config file
+14:27:29 Press x followed by the enter key to stop data acquistion
+14:27:29 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:27:29 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:27:29 CR0: 0001000000000000
+14:27:29 CR1: 0000001011110000
+14:27:29 CR2: 1111101000000110
+14:27:29 CR3: 0000000000000000
+14:27:29 CR4: 0000000000000000
+14:27:29 CR5: 0000000000000000
+14:33:38 Starting program
+14:33:38 Using default config file
+14:33:38 Press x followed by the enter key to stop data acquistion
+14:33:38 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:33:38 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:33:38 CR0: 0001000000000000
+14:33:38 CR1: 0000001011110000
+14:33:38 CR2: 1111101000000110
+14:33:38 CR3: 0000000000000000
+14:33:38 CR4: 0000000000000000
+14:33:38 CR5: 0000000000000000
+14:34:12 Starting program
+14:34:12 Using default config file
+14:34:12 Press x followed by the enter key to stop data acquistion
+14:34:12 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:34:12 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:34:12 CR0: 0001000000000000
+14:34:12 CR1: 0000001011110000
+14:34:12 CR2: 1111101000000110
+14:34:12 CR3: 0000000000000000
+14:34:12 CR4: 0000000000000000
+14:34:12 CR5: 0000000000000000
+14:36:15 Starting program
+14:36:15 Using default config file
+14:36:15 Press x followed by the enter key to stop data acquistion
+14:36:15 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+14:36:15 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+14:36:15 CR0: 0001000000000000
+14:36:15 CR1: 0000001011110000
+14:36:15 CR2: 1111101000000110
+14:36:15 CR3: 0000000000000000
+14:36:15 CR4: 0000000000000000
+14:36:15 CR5: 0000000000000000
+15:13:0 Starting program
+15:13:0 Using default config file
+15:13:0 Press x followed by the enter key to stop data acquistion
+15:13:0 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+15:13:0 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+15:13:0 CR0: 0001000000000000
+15:13:0 CR1: 0000001011110000
+15:13:0 CR2: 1111101000000110
+15:13:0 CR3: 0000000000000000
+15:13:0 CR4: 0000000000000000
+15:13:0 CR5: 0000000000000000
+15:18:23 Starting program
+15:18:23 Using default config file
+15:18:23 Press x followed by the enter key to stop data acquistion
+15:18:23 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+15:18:23 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+15:18:23 CR0: 0001000000000000
+15:18:23 CR1: 0000001011110000
+15:18:23 CR2: 1111101000000110
+15:18:23 CR3: 0000000000000000
+15:18:23 CR4: 0000000000000000
+15:18:23 CR5: 0000000000000000
+16:3:42 Starting program
+16:3:42 Using default config file
+16:3:42 Press x followed by the enter key to stop data acquistion
+16:3:42 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+16:3:42 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+16:3:42 CR0: 0001000000000000
+16:3:42 CR1: 0000001011110000
+16:3:42 CR2: 1111101000000110
+16:3:42 CR3: 0000000000000000
+16:3:42 CR4: 0000000000000000
+16:3:42 CR5: 0000000000000000
+16:4:49 Starting program
+16:4:49 Using default config file
+16:4:49 Press x followed by the enter key to stop data acquistion
+16:4:49 Reading Config File : C:/Users/cams/Documents/Visual Studio 2015/Projects/TDC3377DAQ/Debug/test.cfg
+16:4:49 GPIB Address 3 TDC SLot 9 Dataway Visulizer Slot 2
+16:4:49 CR0: 0001000000000000
+16:4:49 CR1: 0000001011110000
+16:4:49 CR2: 1111101000000110
+16:4:49 CR3: 0000000000000000
+16:4:49 CR4: 0000000000000000
+16:4:49 CR5: 0000000000000000

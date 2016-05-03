@@ -1,0 +1,21 @@
+14:48:10 Starting program
+14:48:10 Press c followed by the enter key to exit the program.
+14:48:10 Collecting data!
+14:48:11 Collecting data!
+14:48:12 Collecting data!
+14:48:13 Collecting data!
+14:48:14 Unknown keyboard input pressed.
+14:48:14 Unknown keyboard input pressed.
+14:48:14 Collecting data!
+14:48:15 Unknown keyboard input pressed.
+14:48:15 Unknown keyboard input pressed.
+14:48:15 Collecting data!
+14:48:17 Collecting data!
+14:48:18 Collecting data!
+14:48:18 Exit key pressed, finishing current acquisition
+14:48:19 Data acquisition complete. Press the enter key to exit...
+15:04:20 Starting program
+15:04:20 Press c followed by the enter key to exit the program.
+15:04:20 Collecting data!
+15:04:21 Collecting data!
+15:04:22 Collecting data!

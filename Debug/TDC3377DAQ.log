@@ -1,0 +1,6 @@
+﻿  TDC3377DAQ.cpp
+c:\users\cams\documents\visual studio 2015\projects\tdc3377daq\tdc3377daq\logger.h(16): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\cams\documents\visual studio 2015\projects\tdc3377daq\tdc3377daq\3377tdc.h(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\cams\documents\visual studio 2015\projects\tdc3377daq\tdc3377daq\3377tdc.h(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\cams\documents\visual studio 2015\projects\tdc3377daq\tdc3377daq\tdc3377daq.cpp(40): warning C4553: '==': operator has no effect; did you intend '='?
+  TDC3377DAQ.vcxproj -> C:\Users\cams\Documents\Visual Studio 2015\Projects\TDC3377DAQ\Debug\TDC3377DAQ.exe
